@@ -102,9 +102,9 @@ analytics:
 
 
 # Site Author
-author:
-  name             : "wqc"
-  avatar           : "/assets/images/bio-photo.png" # path of avatar image
+#author:
+ # name             : "wqc"
+ # avatar           : "/assets/images/bio-photo.png" # path of avatar image
   #bio              : "专注于Java与Machine Learning！"
   #location         : "中国。四川。成都"
   #email            : zhuyuanxiang@gmail.com
