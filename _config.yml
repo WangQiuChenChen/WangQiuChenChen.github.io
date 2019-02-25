@@ -15,14 +15,14 @@
 minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
-locale                   : "zh-CN"
-title                    : "zYx.Tom的个人博客"
+locale                   : "王秋晨"
+title                    : "王秋晨的个人博客"
 title_separator          : "-"
-name                     : "zYx.Tom"
+name                     : "wqc"
 description              : "学习与生活的感悟。"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : zhuyuanxiang/zhuyuanxiang.github.io # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+#repository               : zhuyuanxiang/zhuyuanxiang.github.io # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 200
@@ -103,60 +103,60 @@ analytics:
 
 # Site Author
 author:
-  name             : "zYx.Tom"
-  avatar           : "/assets/images/bio-photo.png" # path of avatar image
-  bio              : "专注于Java与Machine Learning！"
-  location         : "中国。四川。成都"
-  email            : zhuyuanxiang@gmail.com
-  github           : zhuyuanxiang
-  linkedin         : yuanxiang-zhu-93a1a930
-  sina             : ygpfr
-  blogjava         : zhuyuanxiang
-  cnblogs          : zhuyx
+  name             : wqc"
+  #avatar           : "/assets/images/bio-photo.png" # path of avatar image
+ # bio              : "专注于Java与Machine Learning！"
+ # location         : "中国。四川。成都"
+  #email            : zhuyuanxiang@gmail.com
+ # github           : zhuyuanxiang
+ # linkedin         : yuanxiang-zhu-93a1a930
+  #sina             : ygpfr
+  #blogjava         : zhuyuanxiang
+ # cnblogs          : zhuyx
 
-  links:
-    - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
+ # links:
+   # - label: "Email"
+   #   icon: "fas fa-fw fa-envelope-square"
       # url: mailto:zhuyuanxiang@gmail.com
-    - label: "一个平凡人"
-      icon: "fas fa-fw fa-link"
+   # - label: "一个平凡人"
+   #   icon: "fas fa-fw fa-link"
       # url: "https://www.cnblogs.com/zhuyx"
-    - label: "douban（豆瓣）"
+  #  - label: "douban（豆瓣）"
       icon: "fas fa-fw fa-link"
-      url: "https://www.douban.com/people/zhuyuanxiang/"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
+    #  url: "https://www.douban.com/people/zhuyuanxiang/"
+    #- label: "Twitter"
+    #  icon: "fab fa-fw fa-twitter-square"
       # url: "https://twitter.com/"
-    - label: "Facebook"
-      icon: "fab fa-fw fa-facebook-square"
+    #- label: "Facebook"
+    #  icon: "fab fa-fw fa-facebook-square"
       # url: "https://facebook.com/"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
+    #- label: "GitHub"
+    #  icon: "fab fa-fw fa-github"
       # url: "https://github.com/zhuyuanxiang/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
+    #- label: "Instagram"
+    #  icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
 
 # Site Footer
-footer:
-  links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
+#footer:
+  #links:
+   # - label: "Twitter"
+   #   icon: "fab fa-fw fa-twitter-square"
       # url:
-    - label: "Facebook"
-      icon: "fab fa-fw fa-facebook-square"
+   # - label: "Facebook"
+   #   icon: "fab fa-fw fa-facebook-square"
       # url:
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
+  #  - label: "GitHub"
+    #  icon: "fab fa-fw fa-github"
       # url:
-    - label: "GitLab"
-      icon: "fab fa-fw fa-gitlab"
+    #- label: "GitLab"
+    #  icon: "fab fa-fw fa-gitlab"
       # url:
-    - label: "Bitbucket"
-      icon: "fab fa-fw fa-bitbucket"
+  #  - label: "Bitbucket"
+     # icon: "fab fa-fw fa-bitbucket"
       # url:
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
+    #- label: "Instagram"
+   #   icon: "fab fa-fw fa-instagram"
       # url:
 
 
