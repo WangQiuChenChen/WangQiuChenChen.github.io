@@ -33,37 +33,18 @@ toc_label: "文章提纲"
     
     
     <!DOCTYPE html>
-<html>
+    <html>
     <head>
-        <title>Calculator</title>
-        <style type="text/css">
-                .line_input{
-                        border-width: 1px;
-                        border-bottom: solid;
-                        border-top: none;
-                        border-left: none;
-                        border-right: none;
-                        border-width: 1px;
-                        text-align: center;
-                        outline: none;
-                        margin: 0 1em;
-                }
-        </style>
-    </head>
-    <body>
-        <center>
-            <h1>Yet Another Calculator</h1>
             <p>Let's play a game. Please work on this math problem, and make it in 1.5 seconds.</p>
             <form action="" method="GET"><span id="exp">5160526 + 81114644008 - 158998 = </span>
             <input name="answer" type="text" autofocus class="line_input" /><input type="submit" /></form>
-        </center>
-    </body>
-</html>
+     
+     </html>
 
 
-可以得到要计算的式子为：5160526 + 81114644008 - 158998，计算结果为35701914696
+     可以得到要计算的式子为：5160526 + 81114644008 - 158998，计算结果为35701914696
 
-然后面临要传这个结果参数的问题。
+     然后面临要传这个结果参数的问题。
 
 ## 传递参数
 
